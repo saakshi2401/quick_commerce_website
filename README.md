@@ -1,7 +1,5 @@
 # ✨ QuickCart - MERN Stack Platform
 
-![Luxury Quick Commerce Banner](./frontend/public/banner.png)
-
 ## 🌟 Overview
 
 **QuickCart** is a premium full-stack web application that redefines the online shopping experience. Combining the speed of quick-commerce (10-minute delivery) with the elegance of luxury retail, this platform allows users to shop for both high-end items and daily groceries in a unified, sophisticated interface.
